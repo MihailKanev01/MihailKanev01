@@ -1,5 +1,5 @@
 <!-- Profile Heading -->
-<h1 align="center">I'm Mihail Kanev</h1>
+<h1 align="center">Hi, I'm Mihail</h1>
 <h3 align="center">I'm a Developer/Gamer</h3>
 
 <!-- Profile Views -->
