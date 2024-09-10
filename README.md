@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Mihail</h1>
 <h3 align="center">I'm a Developer/Gamer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mihailkanev01&label=Profile%20views&color=0e75b6&style=flat" alt="mihailkanev01" /> </p>
