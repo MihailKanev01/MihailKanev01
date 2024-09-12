@@ -1,14 +1,15 @@
 <table>
   <tr>
     <td colspan="2">
-      <code >👤 Name:</code> Mihail Kanev <br>
+      <code>👤 Name:</code> Mihail Kanev <br>
       <code>💬 Lang:</code> Bulgarian, English<br>
       <code>💗 Like:</code> Games, Gym<br>
-      <code>💼 Does:</code> Coding for fun
+      <code>💼 Does:</code> Coding for fun<br>
+      <code>✍🏻 Currently:</code> Student at Technical Universityt at Varna and SoftUni
     </td>
     <td align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,cs,html,css" alt="Mihail's Skills">
+        <img src="https://skillicons.dev/icons?i=java,cs,html,css,php" alt="Mihail's Skills">
       </a>
     </td>
   </tr>
