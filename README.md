@@ -5,7 +5,7 @@
       <code>💬 Lang:</code> Bulgarian, English<br>
       <code>💗 Like:</code> Games, Gym<br>
       <code>💼 Does:</code> Coding for fun<br>
-      <code>✍🏻 Currently:</code> Student at Technical Universityt at Varna and SoftUni
+      <code>✍🏻 Currently:</code> Student at Technical Universityt of Varna and SoftUni
     </td>
     <td align="center">
       <a href="https://skillicons.dev">
