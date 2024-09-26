@@ -1,24 +1,19 @@
-<table>
-  <tr>
-    <td colspan="2">
-      <code>👤 Name:</code> Mihail Kanev <br>
-      <code>💬 Lang:</code> Bulgarian, English<br>
-      <code>💗 Like:</code> Games, Gym<br>
-      <code>💼 Does:</code> Coding for fun<br>
-      <code>✍🏻 Currently:</code> Student at Technical University of Varna and SoftUni
-    </td>
-    <td align="center">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,cs,html,css,php" alt="Mihail's Skills">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api?username=mihailkanev01&show_icons=true&theme=github_dark" alt="Mihail's GitHub Stats">
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihailkanev01&layout=compact&theme=github_dark" alt="Mihail's Top Langs">
-    </td>
-  </tr>
-</table>
+👤  **`Name`**  Mihail Kanev
+<br>
+💬 **`Lang`**  Bulgarian, English
+<br>
+💗 **`Like`**  Games, Gym
+<br>
+💼 **`Does`**  Student at Technical University of Varna and SoftUni
+
+<br>
+
+<a href="#">![Mihail's Skills](https://skillicons.dev/icons?i=java,cs,html,css,php&theme=dark)</a>
+
+<details>
+  <summary><b>GitHub Stats⚡</b></summary>
+
+  <a href="#">![Mihail's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mihailkanev01&theme=github_dark&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&line_height=24)</a>
+  <a href="#">![Mihail's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mihailkanev01&layout=compact&theme=github_dark&hide_border=true&langs_count=20&hide_title=true)</a>
+  <a href="#">![Mihail's Trophies](https://github-profile-trophy.vercel.app/?username=mihailkanev01&theme=darkhub&no-frame=true&no-bg=false)</a>
+</details>
