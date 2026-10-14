@@ -1,72 +1,50 @@
-
 # Mihail Kanev
 
-### Software Developer | C# / .NET | TypeScript / Next.js | Unity
+**Software Developer | Full-Stack Applications | Game Development**
 
-I build practical software and interactive applications with a focus on backend development, clean project structure, and gameplay systems.
+I build practical software with an interest in backend architecture, reliable data workflows, clean application structure and interactive gameplay systems.
 
-Currently focused on:
+## Focus Areas
 
-- C# / .NET
-- TypeScript / Next.js
-- PostgreSQL / Prisma
-- Unity / C#
+- **Languages:** C#, TypeScript, JavaScript, Java, C++, SQL
+- **Web & Backend:** .NET, Next.js, Node.js, PostgreSQL, Prisma
+- **Game Development:** Unity, Unreal Engine, Godot
+- **Tools:** Git, GitHub, Visual Studio
 
 ## Featured Projects
 
 ### [Fuel Tracker Bulgaria](https://github.com/MihailKanev01/fuel-tracker-bulgaria)
+A full-stack fuel-price tracking platform built with Next.js, TypeScript, PostgreSQL and Prisma. Focus areas include traceable observations, validation, cached APIs, station history, geocoding and trip planning.
 
-Full-stack fuel price tracking platform built with Next.js, TypeScript, PostgreSQL and Prisma.
-
-The project focuses on validated observations, audit-oriented data, protected collection APIs, caching, routing, geocoding and trip planning.
+### [Life Admin](https://github.com/MihailKanev01/life-admin)
+A web-first personal administration product designed to surface what needs attention across recurring payments, documents, owned items and pending tasks.
 
 ### [Ben 10: Project](https://github.com/MihailKanev01/Ben-10-Project)
-
-3D action-adventure prototype built in Unity and C#.
-
-Features transformation and reversion flow, multiple playable alien forms, gameplay abilities, UI systems, third-person camera behaviour and collision-based interactions.
+A Unity/C# 3D action-adventure prototype exploring character transformation, distinct playable forms, abilities, UI integration and third-person gameplay.
 
 ### [NarutoGame](https://github.com/MihailKanev01/NarutoGame)
-
-Unity 6 third-person gameplay prototype focused on camera-relative movement, smooth character rotation, animation integration and third-person camera control.
+A Unity 6 third-person controller prototype focused on camera-relative movement, smooth rotation, animation integration and camera control.
 
 ### [Lights-Out](https://github.com/MihailKanev01/Lights-Out)
+A Unity/C# first-person survival-horror prototype with exploration, flashlight mechanics, locked-door progression and enemy AI.
 
-First-person survival horror prototype built with Unity and C#, featuring exploration, a flashlight system, locked-door progression and enemy AI.
+### [The Haunted Lighthouse](https://github.com/MihailKanev01/The-Haunted-Lighthouse)
+A Godot first-person horror prototype built around atmospheric exploration, environmental interaction and puzzle-oriented progression.
 
 ### [Traffic Management](https://github.com/MihailKanev01/tu-varna-csharp-winforms-traffic)
+A C# Windows Forms application demonstrating event-driven UI logic, navigation between forms, transport-line selection and map-based stop exploration.
 
-C# Windows Forms application demonstrating event-driven UI logic, multi-form navigation, transport-line and stop selection, and map navigation.
+## More Projects
 
-## Tech Stack
-
-**Languages**
-
-C# · TypeScript · JavaScript · Java · C++ · SQL
-
-**Backend & Web**
-
-.NET · Next.js · Node.js · PostgreSQL · Prisma · MySQL
-
-**Game Development**
-
-Unity · Unreal Engine
-
-**Tools**
-
-Git · GitHub · Visual Studio
+- [Portfolio website](https://github.com/MihailKanev01/portfolio) — a central overview of selected work.
+- [LeetCode solutions](https://github.com/MihailKanev01/LeetCode) — Java practice for algorithms and data structures.
+- [SoftUni exercises](https://github.com/MihailKanev01/SoftUni) — programming coursework and exercises.
+- [All repositories](https://github.com/MihailKanev01?tab=repositories)
 
 ## Portfolio
 
-🌐 [mihailkanev01.github.io/portfolio](https://mihailkanev01.github.io/portfolio/)
+**Website:** [mihailkanev01.github.io/portfolio](https://mihailkanev01.github.io/portfolio/)
 
-## GitHub Activity
+---
 
-<details>
-<summary><b>GitHub Stats</b></summary>
-
-![Mihail's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MihailKanev01&theme=github_dark&show_icons=true&hide_border=true&hide_title=true)
-
-![Mihail's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MihailKanev01&layout=compact&theme=github_dark&hide_border=true&langs_count=10&hide_title=true)
-
-</details>
+I’m focused on building a stronger foundation through hands-on projects, maintainable code and continuous practice.
